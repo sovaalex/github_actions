@@ -1,5 +1,5 @@
 {
-	"name": "React-Webpack-Starter",
+	"name": "react-webpack-starter",
 	"version": "1.0.1",
 	"main": "index.js",
 	"license": "MIT",
@@ -48,7 +48,7 @@
 		"typescript": "^5.0.4",
 		"typescript-plugin-css-modules": "^5.0.1",
 		"url-loader": "^4.1.1",
-		"webpack": "^5.81.0",
+		"webpack": "^5.102.1",
 		"webpack-cli": "^5.0.2",
 		"webpack-dev-server": "^4.15.0"
 	},
@@ -79,5 +79,15 @@
 			"path": "./node_modules/cz-conventional-changelog"
 		}
 	},
-	"homepage": "./"
+	"homepage": "http://./",
+	"description": "Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sovaalex/github_actions.git"
+	},
+	"keywords": [],
+	"author": "",
+	"bugs": {
+		"url": "https://github.com/sovaalex/github_actions/issues"
+	}
 }
